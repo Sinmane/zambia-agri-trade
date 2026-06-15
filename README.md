@@ -6,6 +6,9 @@
 
 > **"Zambia's widening K33bn trade deficit is not just a trade problem — it is a currency crisis amplifier: every Kwacha depreciation makes imports more expensive while masking the true stagnation of export volumes, and without structural diversification, the deficit will compound."**
 ---
+## Dashboard Screenshot
+![Uploading zambia-trade.png…]()
+---
 
 ## Presentation Structure
 
